@@ -1,8 +1,12 @@
 ---
 date: 2023-01-01T02:48:05.000Z
 layout: post
+<<<<<<< HEAD:_posts/2010-01-01-just-a-piece-of-wood.md
 title: Just a Piece of Wood
 subtitle: 'Oak? Birch? Mahogany? Pine?'
+=======
+title: Just a Piece of Wood?
+subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
